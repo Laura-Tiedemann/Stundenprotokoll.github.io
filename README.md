@@ -1,5 +1,7 @@
 <h1><a id="Übe">Stundenprotokoll</a></h1>
 
+<hr>
+
 <table>
 <thead>
 <tr>
