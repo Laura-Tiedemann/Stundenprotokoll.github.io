@@ -3,31 +3,26 @@
 <table>
 <thead>
 <tr>
-<th>Spalte 1</th>
-<th align="center">Spalte 2</th>
-<th align="center">Spalte 3</th>
+<th>Datum</th>
+<th align="center">Fortschritt</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Spalte 1.1</td>
-<td align="center">Spalte 2.1</td>
-<td align="center">Spalte 3.1</td>
+<td>12.12.16</td>
+<td align="center">Aufgrund von technischen Störungen konnten wir nicht arbeiten. (Computer nicht funktionsfähig)</td>
 </tr>
 <tr>
-<td>Spalte 1.2</td>
-<td align="center">Spalte 2.2</td>
-<td align="center">Spalte 2.3</td>
+<td>15.12.16</td>
+<td align="center">Ausfall (Geographie-Exkursion)</td>
 </tr>
 <tr>
-<td>Spalte 1.3</td>
-<td align="center">Spalte 2.3</td>
-<td align="center">Spalte 3.3</td>
+<td>19.12.16</td>
+<td align="center">Fragemethode eingeführt (public boolean)</td>
 </tr>
 <tr>
-<td>Spalte 1.4</td>
-<td align="center">Spalte 2.4</td>
-<td align="center">Spalte 3.4</td>
+<td>09.01.17</td>
+<td align="center">Ausfall</td>
 </tr>
 </tbody>
 </table>
