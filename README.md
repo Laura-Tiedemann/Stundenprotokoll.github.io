@@ -6,7 +6,7 @@
 <thead>
 <tr>
 <th>Datum</th>
-<th align="center">Fortschritt</th>
+<th align="center">Fortschritt in den Stunden</th>
 </tr>
 </thead>
 <tbody>
