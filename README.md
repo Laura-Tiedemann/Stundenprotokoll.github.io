@@ -20,7 +20,7 @@
 </tr>
 <tr>
 <td>19.12.16</td>
-<td align="center">Fragemethode eingeführt (public boolean)</td>
+<td align="center">Fragemethode eingeführt (public boolean), sodass nun je nachdem ob die Superkraft aktiviert (true) oder deaktiviert (false) ist, gehandelt wird</td>
 </tr>
 <tr>
 <td>09.01.17</td>
@@ -32,11 +32,11 @@
 </tr>
 <tr>
 <td>16.01.17</td>
-<td align="center">Rückgabe der ersten Klausur</td>
+<td align="center">Rückgabe der ersten Klausur; Fragemethode weiter definieren, sodass die Krabben nun, während sie die Superkraft besitzen, Hummer fressen können ohne selbst gefressen zu werden </td>
 </tr>
 <tr>
 <td>23.01.17</td>
-<td align="center">Plenum: Abgabe der nächsten Klausur; ersten Überblick über Github Pages erlangen</td>
+<td align="center">Plenum: Abgabe der nächsten Klausur; ersten Überblick über Github Pages erlangen; beim Drohnenstart von Stefan zuschauen</td>
 </tr>
 <tr>
 <td>26.01.17</td>
