@@ -41,7 +41,7 @@
 <tr>
 <td>26.01.17</td>
 <td align="center">Wir haben eine Superkraft-Musik für die Superkraft-Methode im Internet gesucht und wollten diese anschließend in Greenfoot einsetzen. Dabei hatten wir jedoch kurzzeitig das Problem, dass der Ordner mit unserem Projekt doppelt vorlag und wir die Musik im falschen Ordner gespeichert hatten. Greenfoot konnte somit die Musik nicht finden. Anschließend haben wir bemerkt, dass gleichzeitig zur Superkraft-Musik auch die Hintergrundmusik spielt, wenn der Stern aktiviert wurde. Auch mit diesem Problem haben wir uns auseinandergesetzt.
-<br>In der zweiten Stunde gab es dann zunächst die Umfrage über Medien an der Stormarnschule in Raum 38. 
+<p>In der zweiten Stunde gab es dann zunächst die Umfrage über Medien an der Stormarnschule in Raum 38.<p> 
 <br>Später haben wir uns dann noch mit der in unserer Dokumentation beschriebenen Problematik beschäftigt, dass am Ende des Spiels immer nur "Player 1 wins" eingeblendet wird, egal ob Player 1 oder Player 2 gewonnen hat. Dieses Problem haben wir gelöst, indem wir beide Bilder als Constructor "Image_3" der jeweiligen Krabbe definiert haben.</td>
 </tr>
 <tr>
