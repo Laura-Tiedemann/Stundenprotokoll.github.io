@@ -40,9 +40,9 @@
 </tr>
 <tr>
 <td>26.01.17</td>
-<td align="center">Wir haben eine Superkraft-Musik für die Superkraft-Methode im Internet gesucht und wollten diese anschließend in Greenfoot einsetzen. Dabei hatten wir jedoch kurzzeitig das Problem, dass der Ordner mit unserem Projekt doppelt vorlag und wir die Musik im falschen Ordner gespeichert hatten. Greenfoot konnte somit die Musik nicht finden. Anschließend haben wir bemerkt, dass gleichzeitig zur Superkraft-Musik auch die Hintergrundmusik spielt, wenn der Stern aktiviert wurde. Auch mit diesem Problem haben wir uns auseinandergesetzt.
-<p>In der zweiten Stunde gab es dann zunächst die Umfrage über Medien an der Stormarnschule in Raum 38.<p> 
-<br>Später haben wir uns dann noch mit der in unserer Dokumentation beschriebenen Problematik beschäftigt, dass am Ende des Spiels immer nur "Player 1 wins" eingeblendet wird, egal ob Player 1 oder Player 2 gewonnen hat. Dieses Problem haben wir gelöst, indem wir beide Bilder als Constructor "Image_3" der jeweiligen Krabbe definiert haben.</td>
+<td align="center"><p>Wir haben eine Superkraft-Musik für die Superkraft-Methode im Internet gesucht und wollten diese anschließend in Greenfoot einsetzen. Dabei hatten wir jedoch kurzzeitig das Problem, dass der Ordner mit unserem Projekt doppelt vorlag und wir die Musik im falschen Ordner gespeichert hatten. Greenfoot konnte somit die Musik nicht finden. Anschließend haben wir bemerkt, dass gleichzeitig zur Superkraft-Musik auch die Hintergrundmusik spielt, wenn der Stern aktiviert wurde. Auch mit diesem Problem haben wir uns auseinandergesetzt.</p>
+<p>In der zweiten Stunde gab es dann zunächst die Umfrage über Medien an der Stormarnschule in Raum 38.</p> 
+<p>Später haben wir uns dann noch mit der in unserer Dokumentation beschriebenen Problematik beschäftigt, dass am Ende des Spiels immer nur "Player 1 wins" eingeblendet wird, egal ob Player 1 oder Player 2 gewonnen hat. Dieses Problem haben wir gelöst, indem wir beide Bilder als Constructor "Image_3" der jeweiligen Krabbe definiert haben.</p></td>
 </tr>
 <tr>
 <td>30.01.17</td>
@@ -66,8 +66,8 @@
 </tr>
 <tr>
 <td>16.02.17</td>
-<td align="center">In dieser Stunde haben wir uns wieder unserem Projekt gewidmet. Dort haben wir letzte Probleme gelöst, wie zum Beispiel, dass nach der Superkraft-Methode wieder das richtige Bild der Krabbe angezeigt wird und nicht das Superkraft-Bild. 
-<br>Anschließend haben wir Ideen für ein neues Projekt entwickelt, welches wir bei Abgabe der letzten Klausur vorstellen werden. Wir haben uns für eine Simulation der Räuber-Beute-Beziehung zwischen Marienkäfer und Blattlaus entschieden, da wir ja beide im Bio-Profil sind und dieses Thema in Ökologie durchgenommen haben. Von daher fänden wir es sehr spannend, zu diesem Thema eine Simulation zu erstellen. Hierfür haben wir bereits Bilder für die Actors und ein Hintergrundbild im Internet gesucht und in Greenfoot eingefügt.</td>
+<td align="center"><p>In dieser Stunde haben wir uns wieder unserem Projekt gewidmet. Dort haben wir letzte Probleme gelöst, wie zum Beispiel, dass nach der Superkraft-Methode wieder das richtige Bild der Krabbe angezeigt wird und nicht das Superkraft-Bild.</p> 
+<p>Anschließend haben wir Ideen für ein neues Projekt entwickelt, welches wir bei Abgabe der letzten Klausur vorstellen werden. Wir haben uns für eine Simulation der Räuber-Beute-Beziehung zwischen Marienkäfer und Blattlaus entschieden, da wir ja beide im Bio-Profil sind und dieses Thema in Ökologie durchgenommen haben. Von daher fänden wir es sehr spannend, zu diesem Thema eine Simulation zu erstellen. Hierfür haben wir bereits Bilder für die Actors und ein Hintergrundbild im Internet gesucht und in Greenfoot eingefügt.</p></td>
 </tr>
 </tbody>
 </table>
