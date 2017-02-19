@@ -20,7 +20,7 @@
 </tr>
 <tr>
 <td>19.12.16</td>
-<td align="center">Wie haben eine Fragemethode eingeführt (public boolean), sodass nun je nachdem ob die Superkraft aktiviert (true) oder deaktiviert (false) ist, gehandelt wird.</td>
+<td align="center">Wie haben eine Fragemethode eingeführt (public boolean), sodass nun, je nachdem ob die Superkraft aktiviert (true) oder deaktiviert (false) ist, gehandelt wird. Somit können die Hummer die Krabben weiterhin fressen wenn die Superkraft deaktiviert ist. Sie werden jedoch von den Krabben gefressen wenn die Superkraft aktiviert ist.</td>
 </tr>
 <tr>
 <td>09.01.17</td>
