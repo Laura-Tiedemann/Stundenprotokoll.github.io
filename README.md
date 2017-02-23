@@ -69,6 +69,10 @@
 <td align="center"><p>In dieser Stunde haben wir uns wieder unserem Projekt gewidmet. Dort haben wir letzte Probleme gelöst, wie zum Beispiel, dass nach der Superkraft-Methode wieder das richtige Bild der Krabbe angezeigt wird und nicht das Superkraft-Bild.</p> 
 <p>Anschließend haben wir Ideen für ein neues Projekt entwickelt, welches wir bei Abgabe der letzten Klausur vorstellen werden. Wir haben uns für eine Simulation der Räuber-Beute-Beziehung zwischen Marienkäfer und Blattlaus entschieden, da wir ja beide im Bio-Profil sind und dieses Thema in Ökologie durchgenommen haben. Von daher fänden wir es sehr spannend, zu diesem Thema eine Simulation zu erstellen. Hierfür haben wir bereits Bilder für die Actors und ein Hintergrundbild im Internet gesucht und in Greenfoot eingefügt.</p></td>
 </tr>
+<tr>
+<td>22.02.17</td>
+<td align="center">In dieser Stunde haben wir die Übertragung unserer Dokumentation auf GitHub-Pages fertiggestellt. Die Hintergrundmusik und die Superkraft-Musik wurden hinzugefügt.</td>
+</tr>
 </tbody>
 </table>
 
