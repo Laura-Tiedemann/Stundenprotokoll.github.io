@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td>22.02.17</td>
-<td align="center">In dieser Stunde haben wir die Übertragung unserer Dokumentation auf GitHub-Pages fertiggestellt. Die Hintergrundmusik und die Superkraft-Musik wurden hinzugefügt.</td>
+<td align="center">In dieser Stunde haben wir die Übertragung unserer Dokumentation auf GitHub-Pages fertiggestellt. Die Hintergrundmusik und die Superkraft-Musik wurden hinzugefügt. Wir haben unsere zweite Klausur abgegeben.</td>
 </tr>
 </tbody>
 </table>
